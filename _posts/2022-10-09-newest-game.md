@@ -3,7 +3,7 @@ layout: post
 title:  "Newest Game"
 summary: "Lead Programmer and Designer"
 date:   2022-10-09 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/postpreview1.png
 ---
 
 ![Picture 1](/assets/fullsize.png)
