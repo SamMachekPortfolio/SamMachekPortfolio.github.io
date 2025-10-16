@@ -26,4 +26,4 @@ Tools & Software:
 
 	•	Adobe Premiere Pro
 
-    • Epidemic Sound
+    •   Epidemic Sound
