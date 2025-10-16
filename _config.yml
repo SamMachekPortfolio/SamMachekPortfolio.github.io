@@ -5,6 +5,7 @@ description: > # keep this and put description below
   Audio Engineer and Sound Designer
 url: "SamMachekPortfolio.github.io" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/sam-machek-410247382"
+"linkedin"
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
