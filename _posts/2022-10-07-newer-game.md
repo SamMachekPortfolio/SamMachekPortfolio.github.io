@@ -6,7 +6,7 @@ date:   2022-10-07 15:39:40
 preview: /assets/postpreview2.png
 ---
 
-<video width="640" height="360" controls>
+<video width="800" height="450" controls>
   <source src="/assets/video2.mp4" type="video/mp4">
 </video>
 
