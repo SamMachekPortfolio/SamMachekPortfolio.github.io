@@ -12,9 +12,7 @@ preview: /assets/postpreview2.png
 
 Overview:
 
-
-	This is a scene from the anime "Cowboy Bebop", a very run down dystopian future type of story. My goal for the sound re-design here was to provide a tasteful collection of sounds in the action scene and then to provide an emotional second half of the project. Within the story foley was used to create the more unique sounds to the story, such as footsteps.
-
+This is a scene from the anime "Cowboy Bebop", a very run down dystopian future type of story. My goal for the sound re-design here was to provide a tasteful collection of sounds in the action scene and then to provide an emotional second half of the project. Within the story foley was used to create the more unique sounds to the story, such as footsteps.
 
 Contributions:
 
