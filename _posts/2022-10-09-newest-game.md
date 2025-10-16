@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tengen vs Gyutaro"
-summary: "Sound Design | Voice Acter"
+summary: "Sound Design | Voice Actor"
 date:   2022-10-09 15:39:40
 preview: /assets/postpreview1.png
 ---
