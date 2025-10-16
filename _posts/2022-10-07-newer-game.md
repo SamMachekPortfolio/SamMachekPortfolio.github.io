@@ -25,3 +25,5 @@ Tools & Software:
 	•	Adobe Audition
 
 	•	Adobe Premiere Pro
+
+    • Epidemic Sound
