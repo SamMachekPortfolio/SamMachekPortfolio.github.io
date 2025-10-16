@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ballad of Fallen Angels"
-summary: "Sound Designer | Composer"
+summary: "Sound Design | Voice Actor"
 date:   2022-10-07 15:39:40
 preview: /assets/postpreview2.png
 ---
