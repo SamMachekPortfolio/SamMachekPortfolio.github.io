@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Older Game"
-summary: "Associate Technical Designer"
+summary: "Sound Design | Composer"
 date:   2022-09-07 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/postpreview5.png
 ---
 
 ![Picture 1](/assets/fullsize.png)
