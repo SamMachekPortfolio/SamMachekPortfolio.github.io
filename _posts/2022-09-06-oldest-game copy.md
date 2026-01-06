@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title:  "The Neighbor"
 summary: "Sound Design | Narration"
 date:   2022-09-06 15:39:40
