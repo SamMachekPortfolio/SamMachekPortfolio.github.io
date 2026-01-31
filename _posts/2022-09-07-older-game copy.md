@@ -6,6 +6,8 @@ date:   2022-09-07 15:39:40
 preview: /assets/postpreview5.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/Game1.png)
+![Picture 1](/assets/Game2.png)
+
 
 Put down info here, either in bullets or paragraphs.
