@@ -7,9 +7,21 @@ preview: /assets/postpreview5.png
 ---
 
 ![Picture 1](/assets/Game1.png)
-![Picture 1](/assets/Game2.png)
 ![Picture 1](/assets/Game3.png)
-![Picture 1](/assets/Game4.png)
 
 
-Put down info here, either in bullets or paragraphs.
+Overview:
+
+This is a video game that I collaborated with an academic club throughout the span of three months. I communicated with the leads in the coding, art, and design departments to achieve the best sound effects and music that was required.
+
+Contributions:
+
+	•	Designed sound effects, including sounds for Lady Justice, The Bean character, and UI effects
+
+	•	Composed an original looped piece for different states in the game.
+
+Tools & Software:
+
+	•	Adobe Audition (Sound Design)
+
+	•	Logic Pro (Music)
