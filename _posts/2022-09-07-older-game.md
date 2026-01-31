@@ -10,9 +10,11 @@ preview: /assets/postpreview5.png
   <button class="carousel-btn prev">&#10094;</button>
 
   <div class="carousel-track">
-    <img src="images/desk1.jpg" class="carousel-slide active">
-    <img src="images/desk2.jpg" class="carousel-slide">
-    <img src="images/desk3.jpg" class="carousel-slide">
+    <img src="images/Game1.jpg" class="carousel-slide active">
+    <img src="images/Game2.jpg" class="carousel-slide">
+    <img src="images/Game3.jpg" class="carousel-slide">
+    <img src="images/Game4.jpg" class="carousel-slide">
+
   </div>
 
   <button class="carousel-btn next">&#10095;</button>
