@@ -8,6 +8,8 @@ preview: /assets/postpreview5.png
 
 ![Picture 1](/assets/Game1.png)
 ![Picture 1](/assets/Game2.png)
+![Picture 1](/assets/Game3.png)
+![Picture 1](/assets/Game4.png)
 
 
 Put down info here, either in bullets or paragraphs.
