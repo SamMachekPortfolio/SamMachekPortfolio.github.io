@@ -10,18 +10,16 @@ preview: /assets/postpreview6.png
 
 Overview:
 
-This is a scene from the anime "Cowboy Bebop", a very run down dystopian future type of story. My goal for the sound re-design here was to provide a tasteful collection of sounds in the action scene and then to provide an emotional second half of the project. Within the story foley was used to create the more unique sounds to the story, such as footsteps.
+This is a project that was requested by Pigfaces Martin Atkins, of whom wanted a high fidelity set of speakers for his museum of post punk & industrial music. In collaboration with an Illinois State professor I built a three way set of stereo speakers for Martin Atkins. The process took about 5 months of the actual creation of the speakers.
 
 Contributions:
 
-	•	Designed all sound effects, including ambience, action, utterances, foley.
+	•	Designed speakers
 
-	•	Edited, processed, and mastered all final audio assets for delivery.
+	•	Assembled Speakers
 
 Tools & Software:
 
-	•	Adobe Audition
+	•	University Workshop
 
-	•	Adobe Premiere Pro
-
-	•	Epidemic Sound
+	•	Parts Express
