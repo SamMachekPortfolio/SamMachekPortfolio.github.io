@@ -12,7 +12,7 @@ preview: /assets/postpreview5.png
 
 Overview:
 
-This is a video game that I collaborated with an academic club throughout the span of three months. I communicated with the leads in the coding, art, and design departments to achieve the best sound effects and music that was required.
+This is a video game that I collaborated with an academic club throughout the span of three months. I communicated with the leads in the coding, art, and design departments to achieve the best sound effects and music that was required. The game has been posted on Itch.io and is available to play.
 
 Contributions:
 
