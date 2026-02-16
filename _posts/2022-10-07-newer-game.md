@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Ballad of Fallen Angels"
-summary: "Sound Design | Foley"
+title:  "Martin Atkins Speakers"
+summary: "Speaker Production"
 date:   2022-10-07 15:39:40
-preview: /assets/postpreview2.png
+preview: /assets/postpreview6.png
 ---
 
-<video width="800" height="450" controls>
-  <source src="/assets/video2.mp4" type="video/mp4">
-</video>
+![Picture 1](/assets/Atkins.png)
 
 Overview:
 
